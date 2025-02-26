@@ -20,7 +20,7 @@
 | Day | Progress | Notes |
 |-----|---------|-------|
 | 1   | Miniscule | 11 pm and i just hovered through Java and JavaScript on W3schools | 
-| 2   | | |
+| 2   | Nada | I took a break |
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
 
