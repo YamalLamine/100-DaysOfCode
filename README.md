@@ -19,7 +19,7 @@
 
 | Day | Progress | Notes |
 |-----|---------|-------|
-| 1   | | |
+| 1   | Miniscule | 11 pm and i just hovered through Java and JavaScript on W3schools | 
 | 2   | | |
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
@@ -60,3 +60,12 @@
 
 ## 🌟 Connect With Me  
 📌 GitHub: [YamalLamine](https://github.com/YamalLamine)  
+
+
+
+
+git init
+git add .
+git commit -m "init"
+git remote add origin https://github.com/YamalLamine/100-DaysOfCode.git
+git push -u origin main
