@@ -21,6 +21,14 @@
 |-----|---------|-------|
 | 1   | Miniscule | 11 pm and i just hovered through Java and JavaScript on W3schools | 
 | 2   | Nada | I took a break |
+| 3 | Nada | Tired as hell |
+| 4 | Miniscule, again | Read some appdev ppt |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
 
