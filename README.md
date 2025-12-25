@@ -60,7 +60,11 @@
 - [ ] Learn [Web Dev]  
 - [ ] Build a full project  
 - [ ] Learn how to code without AI
-- [ ] Be smart af
+- [ ] Be smart af;
+- [ ] But more importantly, DON'T give up;
+- [ ] Keep chipping away at the problem;
+- [ ] Slowly, and I'll get there;
+- [ ] And... Learn by doing!
 
 ### Final Reflections (To be filled at the end)  
 
@@ -71,9 +75,9 @@
 
 
 
-
-git init
-git add .
-git commit -m "init"
-git remote add origin https://github.com/YamalLamine/100-DaysOfCode.git
-git push -u origin main
+Git Basics:
+- git init
+- git add .
+- git commit -m "init"
+- git remote add origin https://github.com/YamalLamine/100-DaysOfCode.git
+- git push -u origin main   
