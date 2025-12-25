@@ -66,7 +66,7 @@ Old Log:
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Resource ](Link)  
 
-### Official Apple Terminal Resources
+### 🍎 Official Apple Terminal Resources
 
 * [Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac) — The official manual for the Terminal app interface and settings.
 * [Shell Scripting Primer](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html) — Apple's technical guide to the command line environment and automation.
@@ -114,6 +114,21 @@ To view the technical manual for your specific version of Git without leaving th
 
 > **Tip:** Use the `Tab` key to autocomplete folder and file names while typing!
 
+### 🧹 macOS .DS_Store Cleanup & Prevention
+
+Run these commands in your Terminal to remove existing hidden system files from your GitHub repository and prevent them from ever being tracked again.
+
+```bash
+# 1. Remove .DS_Store from your current GitHub Repo
+# (Removes from Git tracking without deleting the files from your Mac)
+find . -name .DS_Store -print0 | xargs -0 git rm --cached -f
+git commit -m "Remove .DS_Store files from repository"
+git push -u origin main
+
+# 2. Prevent it Permanently (Global Gitignore)
+# (Creates a global rule so these files are ignored in all future projects)
+echo ".DS_Store" >> ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
 ---
 
 ## 🎯 Goals & Reflections  
