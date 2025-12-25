@@ -2,7 +2,7 @@
 
 ![100 Days of Code](https://img.shields.io/badge/100DaysOfCode-Challenge-blue)  
 
-## 📅 Start Date: 24/02/2025  
+## 📅 Start Date: 28/12/2025 (Ben's cakeday) | ~~24/02/2025~~   
 ## 💻 Goal: Become a developer by coding every day for 100 days  
 
 ---
@@ -19,18 +19,28 @@
 
 | Day | Progress | Notes |
 |-----|---------|-------|
+| 1   | ... | ... | 
+| 2   | ... | ... |
+| 3   | ... | ... |
+| 4   | ... | ... |
+| 5   | ... | ... |
+| 6   | ... | ... |
+| 7   | ... | ... |
+| 8   | ... | ... |
+| 9   | ... | ... |
+| 10  | ... | ... |
+| ... | ... | ... |
+| 100 | 🎉 Completed the challenge! | Reflection |
+
+
+Old Log:
+
+| Day | Progress | Notes |
+|-----|---------|-------|
 | 1   | Miniscule | 11 pm and i just hovered through Java and JavaScript on W3schools | 
 | 2   | Nada | I took a break |
 | 3 | Nada | Tired as hell |
 | 4 | Miniscule, again | Read some appdev ppt |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| 100 | 🎉 Completed the challenge! | Reflection |
 
 ---
 
@@ -44,7 +54,7 @@
 
 ### 💻 Coding Challenges  
 - [Challenge Source (e.g., LeetCode, CodeWars)] 
-- [Challenge no AI!] 
+- [Challenge no AI! STRICTLY! Only if reasonably needed.] 
 
 ---
 
@@ -60,6 +70,8 @@
 - [ ] Learn [Web Dev]  
 - [ ] Build a full project  
 - [ ] Learn how to code without AI
+- [ ] Time will pass, so I might as well do this 🤷;
+- [ ] plus, I get to learn something.
 - [ ] Be smart af;
 - [ ] But more importantly, DON'T give up;
 - [ ] Keep chipping away at the problem;
@@ -67,7 +79,7 @@
 - [ ] And... Learn by doing!
 
 ### Final Reflections (To be filled at the end)  
-## I owe ben coffee after finishing dis...
+
 ---
 
 ## 🌟 Connect With Me  
@@ -81,3 +93,9 @@ Git Basics:
 - git commit -m "init"
 - git remote add origin https://github.com/YamalLamine/100-DaysOfCode.git
 - git push -u origin main   
+
+
+___
+
+
+## I owe ben coffee after finishing dis...
