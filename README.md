@@ -66,7 +66,7 @@ Old Log:
 
 ## 🎯 Goals & Reflections  
 ### Short-Term Goals  
-- [ ] Improve problem-solving  
+- [x] Improve problem-solving  
 - [ ] Learn [Web Dev]  
 - [ ] Build a full project  
 - [ ] Learn how to code without AI
