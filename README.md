@@ -32,6 +32,8 @@
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
 
+| ... | ... | ... |
+| DAY BREAK | ... | ... |
 
 Old Log:
 
@@ -62,7 +64,36 @@ Old Log:
 ## 📚 Resources Used  
 - [Ben's github](https://github.com/Ben-Sicat)  
 - [Markdown Guide](https://www.markdownguide.org/)
+- [ ]()
 - [Resource 2](Link)  
+
+### Official Apple Terminal Resources
+
+* [Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac) — The official manual for the Terminal app interface and settings.
+* [Shell Scripting Primer](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html) — Apple's technical guide to the command line environment and automation.
+* [Manual (man) Pages Reference](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/index.html) — A web-based index of the documentation built into every macOS command.
+
+---
+## 🚀 Mac Terminal Quick Start
+
+### 1. Navigation Basics
+* `pwd` — **Print Working Directory:** Shows exactly where you are.
+* `ls -G` — **List Files:** Shows files in your current folder (the `-G` adds color).
+* `cd <folder name>` — **Change Directory:** Moves you into a folder.
+* `cd ..` — **Go Back:** Moves you up one folder level.
+
+### 2. File Management
+* `mkdir <name>` — Create a new folder.
+* `touch <filename>` — Create a new blank file.
+* `open .` — Open your current terminal folder in the macOS Finder (very useful!).
+
+### 3. The macOS Power Moves
+* `pbcopy < filename.txt` — Copy the text inside a file to your Mac's clipboard.
+* `pbpaste > filename.txt` — Paste your clipboard content into a new file.
+* `caffeinate` — Prevents your Mac from sleeping (useful for long downloads). Press `Ctrl + C` to stop.
+* `say "Hello world"` — Makes your Mac speak the text you type.
+
+> **Tip:** Use the `Tab` key to autocomplete folder and file names while typing!
 
 ---
 
