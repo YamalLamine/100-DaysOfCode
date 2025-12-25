@@ -80,7 +80,7 @@ Before using Git on macOS, run these commands to install the necessary tools and
 * `xcode-select --install` — Installs Apple's Command Line Tools (required for Git).
 * `git config --global credential.helper osxkeychain` — Tells Git to remember your passwords using your Mac's secure Keychain.
 
-#### Official & Mac-Specific Resources
+#### Official & Mac-Specific Git    Resources
 * [Apple Developer: Source Control Management](https://developer.apple.com/documentation/xcode/source-control-management) — Official guide on using Git within the Apple ecosystem and Xcode.
 * [GitHub: macOS Keychain Guide](https://docs.github.com/en/get-started/git-basics/updating-credentials-from-the-macos-keychain) — Detailed instructions for managing Git security and tokens on Mac.
 * [Git Official Reference Manual](https://git-scm.com/docs) — The complete web-based manual for every Git command.
