@@ -50,16 +50,18 @@ Old Log:
 - [Project 2 : Make rock paper scissor game] - Description: Create a rock, paper, scissor game website that counts score and has 3 buttons for rock paper scissor
 - [Project 3 : TicTacToe Game] - Description: TicTacToe game.
 - [Project 4 : Personal Website] - Description: Start my portfolio website.
-- [Project 5 : Blog Website] - Description: 
+- [Project 5 : Blog Website] - Description: (up to me)
 
 ### 💻 Coding Challenges  
 - [Challenge Source (e.g., LeetCode, CodeWars)] 
 - [Challenge no AI! STRICTLY! Only if reasonably needed.] 
+- [Anything on the internet or I can think of.]
 
 ---
 
 ## 📚 Resources Used  
 - [Ben's github](https://github.com/Ben-Sicat)  
+- [Markdown Guide](https://www.markdownguide.org/)
 - [Resource 2](Link)  
 
 ---
@@ -70,13 +72,15 @@ Old Log:
 - [ ] Learn [Web Dev]  
 - [ ] Build a full project  
 - [ ] Learn how to code without AI
+- [ ] Don't be afraid of work being dirty, BUT;
+- [ ] Always do things in ==BEST PRACTICES== after learning from mistakes.
 - [x] Time will pass, so I might as well do this 🤷;
 - [x] plus, I get to learn something.
 - [x] Be smart af;
 - [x] But more importantly, DON'T give up;
 - [x] Keep chipping away at the problem;
 - [x] Slowly, and I'll get there;
-- [x] And... Learn by doing!
+- [x] And... **Learn by doing!**
 - [ ] ...
 - [x] ...
 
@@ -103,3 +107,6 @@ ___
 
 
 ## I owe ben coffee after finishing dis...
+
+# bih bih bih
+# There's so much to learn and what I'm curious about. I'm happy!
