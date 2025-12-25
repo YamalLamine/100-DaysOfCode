@@ -77,8 +77,8 @@ Old Log:
 - [x] Keep chipping away at the problem;
 - [x] Slowly, and I'll get there;
 - [x] And... Learn by doing!
-- [ ]
-- [x]
+- [ ] ...
+- [x] ...
 
 
 
