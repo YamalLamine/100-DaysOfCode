@@ -66,17 +66,21 @@ Old Log:
 
 ## 🎯 Goals & Reflections  
 ### Short-Term Goals  
-- [x] Improve problem-solving  
+- [ ] Improve problem-solving  
 - [ ] Learn [Web Dev]  
 - [ ] Build a full project  
 - [ ] Learn how to code without AI
-- [ ] Time will pass, so I might as well do this 🤷;
-- [ ] plus, I get to learn something.
-- [ ] Be smart af;
-- [ ] But more importantly, DON'T give up;
-- [ ] Keep chipping away at the problem;
-- [ ] Slowly, and I'll get there;
-- [ ] And... Learn by doing!
+- [x] Time will pass, so I might as well do this 🤷;
+- [x] plus, I get to learn something.
+- [x] Be smart af;
+- [x] But more importantly, DON'T give up;
+- [x] Keep chipping away at the problem;
+- [x] Slowly, and I'll get there;
+- [x] And... Learn by doing!
+- [ ]
+- [x]
+
+
 
 ### Final Reflections (To be filled at the end)  
 
