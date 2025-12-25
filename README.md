@@ -139,7 +139,7 @@ git config --global core.excludesfile ~/.gitignore_global
 - [ ] Build a full project  
 - [ ] Learn how to code without AI
 - [ ] Don't be afraid of work being dirty, BUT;
-- [ ] Always do things in ==BEST PRACTICES== after learning from mistakes.
+- [ ] Always do things in <mark>BEST PRACTICES</mark> after learning from mistakes.
 - [x] Time will pass, so I might as well do this 🤷;
 - [x] plus, I get to learn something.
 - [x] Be smart af;
