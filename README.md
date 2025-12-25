@@ -8,7 +8,7 @@
 ---
 
 ## 📜 Rules  
-1. Code for at least **30 minutes** every day.  
+1. Code for at least **34 minutes** every day. It's MY magic number, why do YOU care?
 2. Push progress to GitHub daily.  
 3. Tweet progress using `#100DaysOfCode` (Optional).  
 4. Build projects and improve problem-solving skills.  
@@ -64,14 +64,33 @@ Old Log:
 ## 📚 Resources Used  
 - [Ben's github](https://github.com/Ben-Sicat)  
 - [Markdown Guide](https://www.markdownguide.org/)
-- [ ]()
-- [Resource 2](Link)  
+- [Resource ](Link)  
 
 ### Official Apple Terminal Resources
 
 * [Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac) — The official manual for the Terminal app interface and settings.
 * [Shell Scripting Primer](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html) — Apple's technical guide to the command line environment and automation.
 * [Manual (man) Pages Reference](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/index.html) — A web-based index of the documentation built into every macOS command.
+
+### 🍎 macOS Git Setup & Resources
+
+#### Initial Configuration
+Before using Git on macOS, run these commands to install the necessary tools and link your credentials to the Mac Keychain:
+
+* `xcode-select --install` — Installs Apple's Command Line Tools (required for Git).
+* `git config --global credential.helper osxkeychain` — Tells Git to remember your passwords using your Mac's secure Keychain.
+
+#### Official & Mac-Specific Resources
+* [Apple Developer: Source Control Management](https://developer.apple.com/documentation/xcode/source-control-management) — Official guide on using Git within the Apple ecosystem and Xcode.
+* [GitHub: macOS Keychain Guide](https://docs.github.com/en/get-started/git-basics/updating-credentials-from-the-macos-keychain) — Detailed instructions for managing Git security and tokens on Mac.
+* [Git Official Reference Manual](https://git-scm.com/docs) — The complete web-based manual for every Git command.
+* [Pro Git Book (macOS Setup Guide)](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) — The "Bible" of Git, featuring a deep dive into macOS configuration.
+
+#### Local Documentation
+To view the technical manual for your specific version of Git without leaving the terminal, run:
+`man git`
+
+> **Navigation Tip:** In the `man` viewer, use **Spacebar** to scroll and press **q** to quit.
 
 ---
 ## 🚀 Mac Terminal Quick Start
