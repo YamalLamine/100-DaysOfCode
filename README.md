@@ -129,6 +129,7 @@ git push -u origin main
 # (Creates a global rule so these files are ignored in all future projects)
 echo ".DS_Store" >> ~/.gitignore_global
 git config --global core.excludesfile ~/.gitignore_global
+```
 ---
 
 ## 🎯 Goals & Reflections  
@@ -174,4 +175,4 @@ ___
 ## I owe ben coffee after finishing dis...
 
 ### bih bih bih
-### There's so much to learn and what I'm curious about. I'm happy!
+### There's so much to learn and what I'm curious about. I'm happy
