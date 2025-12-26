@@ -8,7 +8,7 @@
 ---
 
 ## 📜 Rules  
-1. Code for at least **34 minutes** every day. It's MY magic number, why do YOU care?
+1. Code for at least **34 minutes** every day. why do YOU care? It's MY magic number!
 2. Push progress to GitHub daily.  
 3. Tweet progress using `#100DaysOfCode` (Optional).  
 4. Build projects and improve problem-solving skills.  
@@ -33,7 +33,7 @@
 | 100 | 🎉 Completed the challenge! | Reflection |
 
 | ... | ... | ... |
-| DAY BREAK | ... | ... |
+| DAYBREAK | ... | ... |
 
 Old Log:
 
