@@ -32,7 +32,7 @@
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
 
-| ... | ... | ... |
+| n | ... | ... |
 | DAYBREAK | ... | ... |
 
 Old Log:
