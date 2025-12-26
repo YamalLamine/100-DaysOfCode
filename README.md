@@ -138,6 +138,7 @@ git config --global core.excludesfile ~/.gitignore_global
 - [ ] Learn [Web Dev]  
 - [ ] Build a full project  
 - [ ] Learn how to code without AI
+- [ ] No unrealistic expectations/goals breh
 - [ ] Don't be afraid of work being dirty, BUT;
 - [ ] Always do things in <mark>BEST PRACTICES</mark> after learning from mistakes.
 - [ ] It is also <mark>IMPORTANTEMENTE</mark> to not be pulled into TUTORIAL HELL. MAKE! DO! DO IT! JUST DO IT!;
