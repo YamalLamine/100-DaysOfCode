@@ -31,8 +31,7 @@
 | 10  | ... | ... |
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
-| n | ... | ... |
-| DAYBREAK | ... | ... |
+| DAYBREAK | DAYBREAK | DAYBREAK |
 
 Old Log:
 
