@@ -138,6 +138,8 @@ git config --global core.excludesfile ~/.gitignore_global
 - [ ] Learn how to code without AI
 - [ ] Don't be afraid of work being dirty, BUT;
 - [ ] Always do things in <mark>BEST PRACTICES</mark> after learning from mistakes.
+- [ ] It is also <mark>IMPORTANTEMENTE</mark> to not be pulled into TUTORIAL HELL. MAKE! DO! DO IT! JUST DO IT!;
+- [ ] DON'T WASTE TIME ON PASSIVELY LEARNING. APPLY AND BE PRACTICAL! 😛
 - [x] Time will pass, so I might as well do this 🤷;
 - [x] plus, I get to learn something.
 - [x] Be smart af;
