@@ -68,7 +68,9 @@ Old Log:
 
 * [Terminal User Guide](https://support.apple.com/guide/terminal/welcome/mac) — The official manual for the Terminal app interface and settings.
 * [Shell Scripting Primer](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html) — Apple's technical guide to the command line environment and automation.
-* [Manual (man) Pages Reference](https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/index.html) — A web-based index of the documentation built into every macOS command.
+* [SS64 Mac Command Reference](https://ss64.com/mac/) — The most reliable, searchable online index for macOS Terminal commands and their flags.
+* **On-Device Shortcut:** Type `x-man-page://<command>` in Safari (e.g., `x-man-page://git`) to open a clean, readable manual window directly on your Mac.
+* **CLI Manual:** Run `man <command>` in your Terminal to view the documentation locally.
 
 ### 🍎 macOS Git Setup & Resources
 
