@@ -19,7 +19,7 @@
 
 | Day | Progress | Notes |
 |-----|---------|-------|
-| 1   | ... | ... | 
+| 1   | BIG (for me) | Nothing much. Did my first HTML web in a long time. Will be learning HTML tmr and add a lot more, but for now, I rest. | 
 | 2   | ... | ... |
 | 3   | ... | ... |
 | 4   | ... | ... |
