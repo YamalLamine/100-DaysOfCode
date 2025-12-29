@@ -69,7 +69,7 @@ Git Basics:
 | Day | Progress | Notes |
 |-----|---------|-------|
 | 1   | BIG (for me) | Nothing much. Did my first HTML web in a long time. Will be learning HTML tmr and add a lot more, but for now, I rest. | 
-| 2   | ... | ... |
+| 2   | Still learning the basic structure of HTML again | Put hierarchical text on my index file. |
 | 3   | ... | ... |
 | 4   | ... | ... |
 | 5   | ... | ... |
