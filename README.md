@@ -29,16 +29,23 @@
 - [Anything on the internet or I can think of.]
 ---
 ## 🎯 Goals & Reflections  
-### Short-Term Goals  
-- [ ] Improve problem-solving  
+### Short-Term
 - [ ] Learn [Web Dev]  
-- [ ] Build a full project  
-- [ ] Learn how to code without AI
+- [ ] Build a full project.
+- [ ] Learn how to code without AI.
+- [ ] Make mini-projects.
+- [ ] ...
+- [ ] ...
+- [x] ...
+
+### Long-Term
+- [ ] Improve problem-solving.
+- [ ] Build on my fundamentals as an engineer.
 - [ ] No unrealistic expectations/goals breh
 - [ ] Don't be afraid of work being dirty, BUT;
 - [ ] Always do things in <mark>BEST PRACTICES</mark> after learning from mistakes.
 - [ ] It is also <mark>IMPORTANTEMENTE</mark> to not be pulled into TUTORIAL HELL. MAKE! DO! DO IT! JUST DO IT!;
-- [ ] DON'T WASTE TIME ON PASSIVELY LEARNING. APPLY AND BE PRACTICAL! 😛
+- [ ] DON'T WASTE TIME ON PASSIVELY LEARNING. APPLY AND BE PRACTICAL! 😛 
 - [x] Time will pass, so I might as well do this 🤷;
 - [x] plus, I get to learn something.
 - [x] Be smart af;
