@@ -34,7 +34,7 @@
 - [ ] Build a full project.
 - [ ] Learn how to code without AI.
 - [ ] Make mini-projects.
-- [ ] I want to see sumthn
+- [ ] ...
 - [ ] ...
 - [x] ...
 
@@ -69,7 +69,7 @@
 |-----|---------|-------|
 | 1   | BIG (for me) | Nothing much. Did my first HTML web in a long time. Will be learning HTML tmr and add a lot more, but for now, I rest. | 
 | 2   | Still learning the basic structure of HTML again | Put hierarchical text on my index file. |
-| 3   | ... | ... |
+| 3   | Exacto | Haha. Nothing much. I really don't have a reason. |
 | 4   | ... | ... |
 | 5   | ... | ... |
 | 6   | ... | ... |
