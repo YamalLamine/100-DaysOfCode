@@ -70,16 +70,16 @@
 | 1   | BIG (for me) | Nothing much. Did my first HTML web in a long time. Will be learning HTML tmr and add a lot more, but for now, I rest. | 
 | 2   | Still learning the basic structure of HTML again | Put hierarchical text on my index file. |
 | 3   | Exacto | Haha. Nothing much. I really don't have a reason. |
-| 4   | ... | ... |
+| N   | DAYBREAK | NEW YEAR DAYBREAK |
+| 4   | Minimal | got to make sum tmr |
 | 5   | ... | ... |
 | 6   | ... | ... |
 | 7   | ... | ... |
 | 8   | ... | ... |
-| 9   | ... | ... |
-| 10  | ... | ... |
+| 9  | ... | ... |
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
-| DAYBREAK | DAYBREAK | DAYBREAK |
+| N | DAYBREAK | DAYBREAK |
 
 Old Log:
 
