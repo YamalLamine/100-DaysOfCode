@@ -72,14 +72,15 @@
 | 3   | Exacto | Haha. Nothing much. I really don't have a reason. |
 | N   | DAYBREAK | NEW YEAR DAYBREAK |
 | 4   | Minimal | got to make sum tmr |
+| N | MISS | Ima consider this day a miss |
 | 5   | ... | ... |
 | 6   | ... | ... |
 | 7   | ... | ... |
-| 8   | ... | ... |
-| 9  | ... | ... |
+| 8  | ... | ... |
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
-| N | DAYBREAK | DAYBREAK |
+| N | DAYBREAK | ughh |
+| N | MISS | ughh |
 
 Old Log:
 
