@@ -73,7 +73,7 @@
 | N   | DAYBREAK | NEW YEAR DAYBREAK |
 | 4   | Minimal | got to make sum tmr |
 | N | MISS | Ima consider this day a miss |
-| 5   | ... | ... |
+| N | MISS | day ruined finger jammed |
 | 6   | ... | ... |
 | 7   | ... | ... |
 | 8  | ... | ... |
