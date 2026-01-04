@@ -74,7 +74,7 @@
 | 4   | Minimal | got to make sum tmr |
 | N | MISS | Ima consider this day a miss |
 | N | MISS | day ruined finger jammed |
-| 6   | ... | ... |
+| 5   | Small | Added a new file to Proj1 |
 | 7   | ... | ... |
 | 8  | ... | ... |
 | ... | ... | ... |
