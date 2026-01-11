@@ -67,28 +67,29 @@
 
 | Day | Progress | Notes |
 |-----|---------|-------|
-| 1   | BIG (for me) | Nothing much. Did my first HTML web in a long time. Will be learning HTML tmr and add a lot more, but for now, I rest. | 
+| 1   | BIG (for me) | Did my first HTML web in a long time. Will be learning HTML tmr and add a lot more, but for now, I rest. | 
 | 2   | Still learning the basic structure of HTML again | Put hierarchical text on my index file. |
 | 3   | Exacto | Haha. Nothing much. I really don't have a reason. |
-| N   | DAYBREAK | NEW YEAR DAYBREAK |
+| MISS | NADA | NEW YEAR DAYBREAK |
 | 4   | Minimal | got to make sum tmr |
-| N | MISS | Ima consider this day a miss |
-| N | MISS | day ruined finger jammed |
+| MISS | NADA | Ima consider this day a miss |
+| MISS | NADA | day ruined finger jammed |
 | 5   | Small | Added a new file to Proj1 |
-| N | MISS | ughh |
-| N | MISS | ughh |
-| N | MISS | ughh |
-| N | MISS | ughh |
-| N | MISS | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
 | 6 | Miniscule | Tried configuring my terminal. Will continue tomorrow. |
 | ... | ... | ...|
 | ... | ... | ...|
 | ... | ... | ...|
 | ... | ... | ...|
 | 100 | 🎉 Completed the challenge! | Reflection |
-| N | DAYBREAK | ughh |
-| N | MISS | ughh |
+| MISS | NADA | ughh |
 | ... | ... | ...|
+
+MISS COUNT: 7
 
 Old Log:
 
