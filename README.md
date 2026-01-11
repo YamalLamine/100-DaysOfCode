@@ -75,12 +75,20 @@
 | N | MISS | Ima consider this day a miss |
 | N | MISS | day ruined finger jammed |
 | 5   | Small | Added a new file to Proj1 |
-| 7   | ... | ... |
-| 8  | ... | ... |
-| ... | ... | ... |
+| N | MISS | ughh |
+| N | MISS | ughh |
+| N | MISS | ughh |
+| N | MISS | ughh |
+| N | MISS | ughh |
+| 6 | Miniscule | Tried configuring my terminal. Will continue tomorrow. |
+| ... | ... | ...|
+| ... | ... | ...|
+| ... | ... | ...|
+| ... | ... | ...|
 | 100 | 🎉 Completed the challenge! | Reflection |
 | N | DAYBREAK | ughh |
 | N | MISS | ughh |
+| ... | ... | ...|
 
 Old Log:
 
