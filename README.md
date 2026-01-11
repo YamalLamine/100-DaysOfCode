@@ -2,7 +2,7 @@
 
 ![100 Days of Code](https://img.shields.io/badge/100DaysOfCode-Challenge-blue)  
 
-## 📅 Start Date: 11/01/2026 | ~~28/12/2025~~ ~~24/02/2025~~   
+## 📅 Start Date: 28/12/2025 | ~~24/02/2025~~   
 ## 💻 Goal: Become a developer by coding every day for 100 days  
 
 ---
