@@ -80,11 +80,11 @@
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
-| 6 | Miniscule | Tried configuring my terminal. Will continue tomorrow. |
-| ... | ... | ...|
-| ... | ... | ...|
-| ... | ... | ...|
-| ... | ... | ...|
+| 6 | Small | Tried configuring my terminal. Will continue tomorrow. |
+| 7 | Small | Added my MOTD to the Terminal. |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
