@@ -82,7 +82,7 @@
 | MISS | NADA | ughh |
 | 6 | Small | Tried configuring my terminal. Will continue tomorrow. |
 | 7 | Small | Added my MOTD to the Terminal. |
-| ... | ... | ... |
+| 8 | Small | Configured my things on my machine. Must go on with my journey even in stupidity and in foolishness. |
 | ... | ... | ... |
 | ... | ... | ... |
 | 100 | 🎉 Completed the challenge! | Reflection |
