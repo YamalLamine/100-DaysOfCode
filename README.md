@@ -83,13 +83,13 @@
 | 6 | Small | Tried configuring my terminal. Will continue tomorrow. |
 | 7 | Small | Added my MOTD to the Terminal. |
 | 8 | Small | Configured my things on my machine. Must go on with my journey even in stupidity and in foolishness. |
-| ... | ... | ... |
-| ... | ... | ... |
+| MISS | NADA | ughh |
+| 9 | Small | Read something. Do not falter even if progress is small. Go on and fight. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT: 7
+MISS COUNT: 8
 
 Old Log:
 
