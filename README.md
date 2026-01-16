@@ -84,7 +84,8 @@
 | 7 | Small | Added my MOTD to the Terminal. |
 | 8 | Small | Configured my things on my machine. Must go on with my journey even in stupidity and in foolishness. |
 | MISS | NADA | ughh |
-| 9 | Small | Read something. Do not falter even if progress is small. Go on and fight. |
+| 9 | Small | Read something. Do not falter even if progress is small. Go on and fight. |   
+| 10 | Small | Commit a Git Commit, therefore I commit to this commitment. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
