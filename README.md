@@ -87,6 +87,7 @@
 | 9 | Small | Read something. Do not falter even if progress is small. Go on and fight. |   
 | 10 | Small | Commit a Git Commit, therefore I commit to this commitment. |
 | 11 | Small | BSing the hell out this by commiting git git git git. |
+| 12 | Small | (Re)Start of a new project |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
