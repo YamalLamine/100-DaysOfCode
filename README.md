@@ -88,6 +88,7 @@
 | 10 | Small | Commit a Git Commit, therefore I commit to this commitment. |
 | 11 | Small | BSing the hell out this by commiting git git git git. |
 | 12 | Small | (Re)Start of a new project |
+| 13 | Small | Started on my homepage. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
