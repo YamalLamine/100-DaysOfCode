@@ -89,7 +89,7 @@
 | 11 | Small | BSing the hell out this by commiting git git git git. |
 | 12 | Small | (Re)Start of a new project |
 | 13 | Small | Started on my homepage. |
-| 14 |       |  |
+| 14 | Just alright | Learned some HTML basics from a course. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
