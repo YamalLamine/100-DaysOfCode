@@ -90,11 +90,15 @@
 | 12 | Small | (Re)Start of a new project |
 | 13 | Small | Started on my homepage. |
 | 14 | Just alright | Learned some HTML basics from a course. |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| 15 | Small | Commit something. | 
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT: 8
+MISS COUNT: 11
 
 Old Log:
 
