@@ -93,7 +93,8 @@
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
-| 15 | Small | Commit something. | 
+| 15 | Small | Commit something. |
+| 16 | Small | Commit. One day way from going back to my condo. | 
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
