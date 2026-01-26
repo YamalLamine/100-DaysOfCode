@@ -115,8 +115,5 @@ Old Log:
 ### Final Reflections (To be filled at the end)  
    
 ___
-
-
-### I owe ben coffee after finishing dis...
 #### bih bih bih
 #### There's so much to learn and what I'm curious about. I'm happy
