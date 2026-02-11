@@ -109,7 +109,6 @@
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
-
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
