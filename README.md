@@ -94,12 +94,27 @@
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
 | 15 | Small | Commit something. |
-| 16 | Small | Commit. One day way from going back to my condo. | 
+| 16 | Small | Commit. One day way from going back to my condo. |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT: 11
+MISS COUNT: 25
 
 Old Log:
 
