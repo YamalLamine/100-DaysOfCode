@@ -110,6 +110,7 @@
 | MISS | NADA | ughh |
 | MISS | NADA | ughh |
 | 17 | Small | I have not done any work in 2 weeks |
+| 18 | Small | Trying and trying. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
