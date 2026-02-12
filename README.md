@@ -24,7 +24,7 @@
 - [Project 5 : Blog Website] - Description: (up to me)
 
 ### 💻 Coding Challenges  
-- [Challenge Source (e.g., LeetCode, CodeWars)] 
+- [Challenge Sources (e.g., LeetCode, CodeWars)] 
 - [Challenge no AI! STRICTLY! Only if reasonably needed.] 
 - [Anything on the internet or I can think of.]
 ---
