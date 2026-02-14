@@ -111,11 +111,13 @@
 | MISS | NADA | ughh |
 | 17 | Small | I have not done any work in 2 weeks |
 | 18 | Small | Trying and trying. |
+| MISS | NADA | ughh |
+| 19 | Small | just a git commit. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT: 25
+MISS COUNT: 26
 
 Old Log:
 
