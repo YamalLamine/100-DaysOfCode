@@ -113,11 +113,13 @@
 | 18 | Small | Trying and trying. |
 | MISS | NADA | ughh |
 | 19 | Small | just a git commit. |
+| MISS | NADA | ughh |
+| 20 | Small | Commit to it. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT: 26
+MISS COUNT: 27
 
 Old Log:
 
