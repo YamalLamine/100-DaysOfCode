@@ -119,6 +119,7 @@
 | 21 | Small | Commit to it. |
 | 22 | Small | Commit to it. |
 | 23 | Small | Commit to it. |
+| 24 | Small | Commit to it. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
