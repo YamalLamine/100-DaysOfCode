@@ -24,9 +24,13 @@
 - [Project 5 : Blog Website] - Description: (up to me)
 
 ### 💻 Coding Challenges  
-- [Challenge Sources (e.g., LeetCode, CodeWars)] 
-- [Challenge no AI! STRICTLY! Only if reasonably needed.] 
-- [Anything on the internet or I can think of.]
+- [Challenge Sources (e.g., LeetCode, CodeWars, roadmap/.sh, etc)] 
+- [When running into bugs, it is best practice to check documentations or Stack Exchange. Any forum of some kind;]
+- [No AI! STRICTLY! Only AND ONLY IF reasonably needed;] 
+- [Use AI only for learning things, not making things or delegating stuff to it.]
+- [VIBECODING is a PSY-OP!!!!!!!!!!!!!]
+- [FEEL THE GLORY OF LEARNING IT FROM BLOOD AND SWEAT!!]
+- [Anything on the internet or anything I can think of.]
 ---
 ## 🎯 Goals & Reflections  
 ### Short-Term
@@ -41,7 +45,7 @@
 ### Long-Term
 - [ ] Improve problem-solving.
 - [ ] Build on my fundamentals as an engineer.
-- [ ] No unrealistic expectations/goals breh
+- [ ] No unrealistic expectations/goals breh.
 - [ ] Don't be afraid of work being dirty, BUT;
 - [ ] Always do things in <mark>BEST PRACTICES</mark> after learning from mistakes.
 - [ ] It is also <mark>IMPORTANTEMENTE</mark> to not be pulled into TUTORIAL HELL. MAKE! DO! DO IT! JUST DO IT!;
@@ -121,6 +125,7 @@
 | 23 | Small | Commit to it. |
 | 24 | Small | Commit to it. |
 | 25 | Small | Commit to it. |
+| 26 | Cool, I guess. | It was bothering me, so I change the Coding Challenges section. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
