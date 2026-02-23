@@ -130,7 +130,7 @@
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT: 28
+MISS COUNT (DAYS TO RECLAIM): 28
 
 Old Log:
 
