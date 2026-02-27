@@ -126,11 +126,16 @@
 | 24 | Small | Commit to it. |
 | 25 | Small | Commit to it. |
 | 26 | Cool, I guess. | It was bothering me, so I change the Coding Challenges section. |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| MISS | NADA | ughh |
+| 27 | Small | Commit to it. |
+| ... | ... | ...|
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT (DAYS TO RECLAIM): 28
+MISS COUNT (DAYS TO RECLAIM): 31
 
 Old Log:
 
