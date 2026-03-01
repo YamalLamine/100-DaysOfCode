@@ -131,11 +131,13 @@
 | MISS | NADA | ughh |
 | 27 | Small | Commit to it. |
 | ... | ... | ...|
+| 28 | Small | Commit to it. |
+| ... | ... | ...|
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT (DAYS TO RECLAIM): 31
+MISS COUNT (DAYS TO RECLAIM): 32
 
 Old Log:
 
