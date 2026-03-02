@@ -132,6 +132,7 @@
 | 27 | Small | Commit to it. |
 | ... | ... | ...|
 | 28 | Small | Commit to it. |
+| 29 | Small | Commit to it. |
 | ... | ... | ...|
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
