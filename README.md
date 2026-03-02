@@ -12,6 +12,7 @@
 2. Push progress to GitHub daily.  
 3. Tweet progress using `#100DaysOfCode` (Optional).  
 4. Build projects and improve problem-solving skills.  
+5. **STOP WAITING FOR THE PERFECT TIME TO START!!!!!**
 
 ---
 
