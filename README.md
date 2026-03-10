@@ -26,12 +26,13 @@
 
 ### 💻 Coding Challenges  
 - [Challenge Sources (e.g., LeetCode, CodeWars, roadmap/.sh, etc)] 
-- [When running into bugs, it is best practice to check documentations or Stack Exchange. Any forum of some kind;]
+- [When running into bugs, it is best practice to check documentations or Stack Exchange (Any kind of forum).;]
 - [No AI! STRICTLY! Only AND ONLY IF reasonably needed;] 
 - [Use AI only for learning things, not making things or delegating stuff to it.]
 - [VIBECODING is a PSY-OP!!!!!!!!!!!!!]
 - [FEEL THE GLORY OF LEARNING IT FROM BLOOD AND SWEAT!!]
 - [Anything on the internet or anything I can think of.]
+- [If we're gonna do this, we are going to do it right!]
 ---
 ## 🎯 Goals & Reflections  
 ### Short-Term
@@ -138,11 +139,16 @@
 | ... | ... | ...|
 | ... | ... | ...|
 | 30 | Small | Commit to it. |
+| ... | ... | ...|
+| ... | ... | ...|
+| ... | ... | ...|
+| ... | ... | ...|
+| 31 | Small | Update to README. |
 | 100 | 🎉 Completed the challenge! | Reflection |
 | MISS | NADA | ughh |
 | ... | ... | ...|
 
-MISS COUNT (DAYS TO RECLAIM): 34
+MISS COUNT (DAYS TO RECLAIM): 38
 
 Old Log:
 
